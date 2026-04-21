@@ -4,7 +4,7 @@ def display_message():
     """
     Prints a message to the console to demonstrate version control.
     """
-    message = "Git is awesome!"
+    message = "Git is awesome!!"
     print(message)
 
 if __name__ == "__main__":
